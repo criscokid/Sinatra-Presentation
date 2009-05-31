@@ -1,0 +1,30 @@
+body {
+	background-color: #ff001d;
+}
+
+div#content {
+	background-color: white;
+	border-style: solid;
+	border-color: #000;
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+	margin: 20px;
+	padding: 10px;
+}
+
+#content div.filter_example {
+	margin-bottom: 5px;
+	border: 1px solid #000;
+	padding: 5px;
+}
+
+#content div.filter_example span {
+	font-weight: bold;
+}
+
+span.label {
+	font-weight: bold;
+}
+
+body#body2{
+	background-color: #3022ed;
+}
